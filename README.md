@@ -8,7 +8,7 @@ This transformer model has 4 big components:
 - Fast-Forward Network: all the layers needed for the transformer "training".
 - Transformer: the transformer decoder block itself. 
 
-More info in the report file (coming soon).
+More info in the report file. 
 
 ## Credits
 
